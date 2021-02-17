@@ -11,4 +11,3 @@ phpinfo();
 
 
  ?>
-Test
